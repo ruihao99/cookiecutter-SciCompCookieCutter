@@ -1,0 +1,9 @@
+{
+    "comment": "This file contains user-defined variables for the project template.",
+
+    "directory_name": "my_project",
+    "package_name": "my_package",
+    "author": "Your Name",
+    "email": "example@example.com",
+    "description": "A brief description of the project."
+}
